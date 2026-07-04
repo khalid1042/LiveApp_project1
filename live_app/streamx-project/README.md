@@ -2,7 +2,6 @@
 
 A fully responsive frontend UI for an enterprise live-streaming platform, built with plain HTML, CSS and JavaScript (no build step, no framework required). Matches the provided design mockup — dark theme, purple/pink/orange/green accent palette, Poppins/Inter typography.
 
-> ⚠️ Frontend only. No backend, API, or database logic is included — all data on screen is static/mock data defined in `js/app.js`.
 
 ## Folder Structure
 
